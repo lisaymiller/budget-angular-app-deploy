@@ -1,0 +1,13 @@
+@import "../main-styles.scss";
+
+.add-items-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 1.25rem;
+
+  .add-items-container {
+    width: 42.5rem;
+  }
+}
