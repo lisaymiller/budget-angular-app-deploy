@@ -8,4 +8,4 @@ The basis of the application is to calculate a running total based on the income
 
 ## Deployment
 
-This app is also deployed at `https://<lisaymiller>.github.io/<budget-angular-app-deply>/`
+This app is also deployed at `https://lisaymiller.github.io/budget-angular-app-deploy/`
